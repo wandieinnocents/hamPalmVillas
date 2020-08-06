@@ -5,7 +5,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Home 5 | Hotux</title>
+<title>Home</title>
 
 <script src="https://cyclonethemes.com/cdn-cgi/apps/head/aXeeT3C8FEVE2uMUPMMUDxVnKrs.js"></script><link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.png">
 
@@ -20,3 +20,68 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css">
 </head>
+
+<!-- extension of navigaton -->
+<body>
+
+<div id="preloader">
+<div id="status"></div>
+</div>
+
+
+<header class="main_header_area" style="background-color:black;">
+
+
+<div class="header_menu affix-top">
+<nav class="navbar navbar-default">
+<div class="container">
+
+<div class="navbar-header">
+<a class="navbar-brand" href="#">
+<img alt="Image" src="asset('assets/images/logo.png')" class="logo-white">
+<img alt="Image" src="asset('assets/images/logo-black.png')" class="logo-black">
+</a>
+</div>
+
+<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+<ul class="nav navbar-nav" id="responsive-menu">
+<li class="dropdown submenu active">
+<a href="index-2.html" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Home</a>
+
+</li>
+<li class="submenu dropdown">
+<a href="/villas" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Villas</a>
+
+</li>
+<li class="submenu dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Amenities   </a>
+
+</li>
+
+<li class="submenu dropdown">
+<a href="restaurant.html" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Construction Status</a>
+
+</li>
+<li class="submenu dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Sales</a>
+
+</li>
+<li class="submenu dropdown">
+<a href="#" role="button" aria-haspopup="true" aria-expanded="false">About Us</a>
+
+</li>
+
+
+
+</ul>
+
+<!-- <div class="nav-btn">
+<a href="#" class="btn btn-orange">GET QUOTE</a>
+</div> -->
+</div>
+</div>
+<div id="slicknav-mobile"></div>
+</nav>
+</div>
+
+</header>

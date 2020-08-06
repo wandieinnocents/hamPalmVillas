@@ -1124,7 +1124,7 @@ section.banner{
 a.slider-btn{
 	padding: 15px 25px 15px;
 	display: inline-block;
-	background: #fe4e37;
+	background: #000000;
 	color: #fff;
 	border-radius: 20px;
 	text-transform: uppercase;
@@ -1970,7 +1970,7 @@ section.about-style-3 .intro-thumb .intro-img-3 {
 /*room style 3*/
 
 section.rooms-style3{
-  background: url(../images/roombg.jpg) no-repeat;
+  background: url(../images/roombg.jp) no-repeat;
   background-position: top;
   background-size: 100%;
 }
