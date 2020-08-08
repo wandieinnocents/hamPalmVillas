@@ -15,3 +15,19 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+// villlas page
+Route::get('villas','PageController@villasPage');
+
+// amenities page
+Route::get('amenities','PageController@ammenitiesPage');
+
+// construction status page
+Route::get('construction_status','PageController@constructionStatusPage');
+
+// sales page
+Route::get('sales','PageController@salesPage');
+
+// sales page
+Route::get('aboutus','PageController@aboutUsPage');
+
+

@@ -2,13 +2,10 @@
 
 @include('includes.header')
 
+@yield('mycssfile')
+
 <!-- end of header section -->
 
-
-<!-- slider -->
-
-@include('includes.slider')
-<!-- end of slider -->
 
 
 @yield('content')
@@ -25,6 +22,10 @@
 @include('includes.scripts')
 
 <!-- end of scripts -->
+
+@yield('myjsfile')
+
+
 </body>
 
 </html>

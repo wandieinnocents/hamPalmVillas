@@ -24,9 +24,9 @@
 <!-- extension of navigaton -->
 <body>
 
-<div id="preloader">
+<!-- <div id="preloader">
 <div id="status"></div>
-</div>
+</div> -->
 
 
 <header class="main_header_area" style="background-color:black;">
@@ -38,36 +38,36 @@
 
 <div class="navbar-header">
 <a class="navbar-brand" href="#">
-<img alt="Image" src="asset('assets/images/logo.png')" class="logo-white">
-<img alt="Image" src="asset('assets/images/logo-black.png')" class="logo-black">
+<img alt="Image" src="assets/images/logodark.png" class="logo-white" style="width:140px; height:38px;">
+<img alt="Image" src="assets/images/logolight.png" class="logo-black" style="width:140px; height:38px;">
 </a>
 </div>
 
 <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 <ul class="nav navbar-nav" id="responsive-menu">
-<li class="dropdown submenu active">
-<a href="index-2.html" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Home</a>
+<li class="dropdown submenu ">
+<a href="/"  role="button" aria-haspopup="true" aria-expanded="false">Home</a>
 
 </li>
 <li class="submenu dropdown">
-<a href="/villas" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Villas</a>
+<a href="/villas" class="dropdown-toggle"  role="button" aria-haspopup="true" aria-expanded="false">Villas</a>
 
 </li>
 <li class="submenu dropdown">
-<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Amenities   </a>
+<a href="/amenities" class="dropdown-toggle" role="button" aria-haspopup="true" aria-expanded="false">Amenities   </a>
 
 </li>
 
 <li class="submenu dropdown">
-<a href="restaurant.html" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Construction Status</a>
+<a href="/construction_status" class="dropdown-toggle"  role="button" aria-haspopup="true" aria-expanded="false">Construction Status</a>
 
 </li>
 <li class="submenu dropdown">
-<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Sales</a>
+<a href="/sales" class="dropdown-toggle"  role="button" aria-haspopup="true" aria-expanded="false">Sales</a>
 
 </li>
 <li class="submenu dropdown">
-<a href="#" role="button" aria-haspopup="true" aria-expanded="false">About Us</a>
+<a href="/aboutus" role="button" aria-haspopup="true" aria-expanded="false">About Us</a>
 
 </li>
 
