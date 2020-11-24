@@ -113,7 +113,7 @@ div.bhoechie-tab div.bhoechie-tab-content:not(.active){
 <p>
 Ham Palm Villas has been designed with a comprehensive understanding of the market 
 ensuring awareness of every aspect that may 
-have a direct influence on our residents and their objectives.
+have a direct influence on our residents.
 </p>
 </div>
 <div class="room-outer">
