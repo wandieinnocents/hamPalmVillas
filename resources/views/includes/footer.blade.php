@@ -1,5 +1,5 @@
 
-<footer class="footer-style-1">
+<footer class="footer-style-1" style="background:url(assets/images/custom/REC.png)">
 
 <div class="footer-top">
 <div class="container">
@@ -8,8 +8,9 @@
 <div class="row">
 <div class="col-md-3 col-sm-6 col-xs-12">
 <div class="footer-about">
-<h4>Company Info</h4>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius tellus vitae justo blandit ultrices.</p>
+<h4>WHY WE STAND OUT</h4>
+<p>Ham Palm Villas is a place where there is a carefully curated quality 
+    corporate and community experience.</p>
 </div>
 
 </div>
@@ -17,9 +18,10 @@
 <div class="quick-links">
 <h4>Quick Links</h4>
 <ul>
-<li><a href="#">Home</a></li>
-<li><a href="#">About</a></li>
-<li><a href="#">Rooms</a></li>
+<li><a href="#">Villas</a></li>
+
+<li><a href="#">Amenities</a></li>
+<li><a href="#">Sales</a></li>
 
 
 </ul>
@@ -29,9 +31,9 @@
 <div class="Rooms">
 <h4>Rooms</h4>
 <ul>
-<li><a href="#">Single Rooms</a></li>
-<li><a href="#">Double Rooms</a></li>
-<li><a href="#">Studio Rooms</a></li>
+<li><a href="#">7 Bed Rooms</a></li>
+<li><a href="#">3 Bed Rooms</a></li>
+<li><a href="#">7 Bed Rooms</a></li>
 
 </ul>
 </div>
@@ -40,9 +42,9 @@
 <div class="footer-contact">
 <h4>Contact info</h4>
 <ul>
-<li>Tel: 977-222-444-6666</li>
-<li>Email: <a href="https://cyclonethemes.com/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="d9b0b7bfb699b1b6adaca1f7bab6b4f7b7a9">[email&#160;protected]</a></li>
-<li>Fax: 977-222-444-666</li>
+<li>Tel: +256772885155</li>
+<li>Email: <a href="" class="" data-cfemail="">info@hampalmvillas.com</a></li>
+<li>Mob: +256414662855</li>
 
 </ul>
 </div>
@@ -54,7 +56,7 @@
 <div class="footer-copyright">
 <div class="container">
 <div class="copyright-content text-center">
-<p class="white">Copyright 2019. Made with <span><a href="https://cyclonethemes.com/">Cyclone Themes</a></span>. All Rights Reserved. <a href="#">Hotux</a></p>
+<p class="white">&copy 2020  <span><a href="">Ham Palm Villas</a></span>. Design by <a href="#"> Wanran Inc </a></p>
 <ul>
 <li><a href="#" class="white"><i class="fab fa-facebook" aria-hidden="true"></i></a></li>
 <li><a href="#" class="white"><i class="fab fa-twitter" aria-hidden="true"></i></a></li>

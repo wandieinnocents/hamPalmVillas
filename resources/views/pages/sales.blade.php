@@ -1,7 +1,7 @@
 @extends('layouts.master')
 
 @section('title')
-
+SALES 
 @endsection
 
 
@@ -11,7 +11,7 @@
 
 
 
-<section class="breadcrumb-outer">
+<section class="breadcrumb-outer" style="background:url(assets/images/custom/SITE.jpg)">
 <div class="container">
 <div class="breadcrumb-content">
 <h2>SALES</h2>
@@ -35,6 +35,7 @@ We challenge ourselves to see things differently and achieve outcomes that excee
 At Ham Palm Villas, we believe we only succeed if our clients succeed and our relationships are built on experience, quality construction and enduring trust.
 We have an inherent passion for our local area, strong ties to our community and an intimate understanding of our market. The quality of the Ham Palm Villas and the level of attention to Contemporary Living leaves a mark in our clients’ hearts and that is what sets us apart.
 
+
 </p>
 
 <p style="text-align:left;">
@@ -46,8 +47,20 @@ Over the years, backed by the success in the real estate sector in Uganda, Hams 
 </div>
 
 
-<h3 style="text-align:center; margin-top:-30px;">OUR COMPANY <span>STRUCTURE</span></h3>
-<img src="assets/images/companies.PNG" alt="our-companies-image">
+<h3 style="text-align:center; margin-top:-30px; margin-left: -70px;"> VILLAS <span>SALES TEAM</span></h3>
+
+<div class="row">
+    <div class="col-md-1">
+    </div>
+
+    <div class="col-md-10">
+    <!-- <img src="assets/images/custom/hamteam.PNG" alt="our-companies-image" style="margin-left:-40px; "> -->
+    <img src="assets/images/custom/team2.PNG" alt="our-companies-image" style="margin-left:-40px; ">
+    </div>
+
+    <div class="col-md-1">
+    </div>
+</div>
 
 
 <!-- end of content -->

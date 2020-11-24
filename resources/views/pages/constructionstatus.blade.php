@@ -1,7 +1,7 @@
 @extends('layouts.master')
 
 @section('title')
-
+CONSTRUCTION STATUS
 @endsection
 
 
@@ -11,7 +11,7 @@
 
 
 
-<section class="breadcrumb-outer">
+<section class="breadcrumb-outer" style="background:url(assets/images/custom/SITE.jpg)">
 <div class="container">
 <div class="breadcrumb-content">
 <h2>CONSTRUCTION STATUS</h2>
@@ -45,11 +45,11 @@
 <div class="isotopeSelector conference col-md-4 col-sm-6 col-xs-12">
 <div class="gallery-item">
 <div class="gallery-image">
-<img src="assets/images/gallery/gallery1.jpg" alt="image">
+<img src="assets/images/gallery/construction1.png" alt="image">
 </div>
 <div class="gallery-content">
 <ul>
-<li><a href="assets/images/gallery/gallery1.jpg" data-lightbox="gallery" data-title="Title"><i class="fa fa-eye"></i></a></li>
+<li><a href="assets/images/gallery/construction1.png" data-lightbox="gallery" data-title="Title"><i class="fa fa-eye"></i></a></li>
 <li><a href="#"><i class="fa fa-link"></i></a></li>
 </ul>
 </div>
@@ -58,12 +58,13 @@
 <div class="isotopeSelector rooms col-md-4 col-sm-6 col-xs-12">
 <div class="gallery-item">
 <div class="gallery-image">
-<img src="assets/images/gallery/gallery2.jpg" alt="image">
+<img src="assets/images/gallery/construction2.png" alt="image">
 </div>
 <div class="gallery-content">
 <ul>
-<li><a href="assets/images/gallery/gallery2.jpg" data-lightbox="gallery" data-title="Title"><i class="fa fa-eye"></i></a></li>
+<li><a href="assets/images/gallery/construction2.png" data-lightbox="gallery" data-title="Title"><i class="fa fa-eye"></i></a></li>
 <li><a href="#"><i class="fa fa-link"></i></a></li>
+
 </ul>
 </div>
 </div>
@@ -71,11 +72,11 @@
 <div class="isotopeSelector restro col-md-4 col-sm-6 col-xs-12">
 <div class="gallery-item">
 <div class="gallery-image">
-<img src="assets/images/gallery/gallery3.jpg" alt="image">
+<img src="assets/images/gallery/construction3.png" alt="image">
 </div>
 <div class="gallery-content">
 <ul>
-<li><a href="assets/images/gallery/gallery3.jpg" data-lightbox="gallery" data-title="Title"><i class="fa fa-eye"></i></a></li>
+<li><a href="assets/images/gallery/construction3.png" data-lightbox="gallery" data-title="Title"><i class="fa fa-eye"></i></a></li>
 <li><a href="#"><i class="fa fa-link"></i></a></li>
 </ul>
 </div>
@@ -84,11 +85,11 @@
 <div class="isotopeSelector conference col-md-4 col-sm-6 col-xs-12">
 <div class="gallery-item">
 <div class="gallery-image">
-<img src="assets/images/gallery/gallery4.jpg" alt="image">
+<img src="assets/images/gallery/construction4.png" alt="image">
 </div>
 <div class="gallery-content">
 <ul>
-<li><a href="assets/images/gallery/gallery4.jpg" data-lightbox="gallery" data-title="Title"><i class="fa fa-eye"></i></a></li>
+<li><a href="assets/images/gallery/construction4.png" data-lightbox="gallery" data-title="Title"><i class="fa fa-eye"></i></a></li>
 <li><a href="#"><i class="fa fa-link"></i></a></li>
 </ul>
 </div>
@@ -97,11 +98,11 @@
 <div class="isotopeSelector restro col-md-4 col-sm-6 col-xs-12">
 <div class="gallery-item">
 <div class="gallery-image">
-<img src="assets/images/gallery/gallery5.jpg" alt="image">
+<img src="assets/images/gallery/construction5.png" alt="image">
 </div>
 <div class="gallery-content">
 <ul>
-<li><a href="assets/images/gallery/gallery5.jpg" data-lightbox="gallery" data-title="Title"><i class="fa fa-eye"></i></a></li>
+<li><a href="assets/images/gallery/construction5.png" data-lightbox="gallery" data-title="Title"><i class="fa fa-eye"></i></a></li>
 <li><a href="#"><i class="fa fa-link"></i></a></li>
 </ul>
 </div>
@@ -110,11 +111,11 @@
 <div class="isotopeSelector rooms col-md-4 col-sm-6 col-xs-12">
 <div class="gallery-item">
 <div class="gallery-image">
-<img src="assets/images/gallery/gallery6.jpg" alt="image">
+<img src="assets/images/gallery/construction6.png" alt="image">
 </div>
 <div class="gallery-content">
 <ul>
-<li><a href="assets/images/gallery/gallery6.jpg" data-lightbox="gallery" data-title="Title"><i class="fa fa-eye"></i></a></li>
+<li><a href="assets/images/gallery/construction6.png" data-lightbox="gallery" data-title="Title"><i class="fa fa-eye"></i></a></li>
 <li><a href="#"><i class="fa fa-link"></i></a></li>
 </ul>
 </div>
@@ -123,11 +124,11 @@
 <div class="isotopeSelector rooms col-md-4 col-sm-6 col-xs-12">
 <div class="gallery-item">
 <div class="gallery-image">
-<img src="assets/images/gallery/gallery7.jpg" alt="image">
+<img src="assets/images/gallery/construction7.png" alt="image">
 </div>
 <div class="gallery-content">
 <ul>
-<li><a href="assets/images/gallery/gallery7.jpg" data-lightbox="gallery" data-title="Title"><i class="fa fa-eye"></i></a></li>
+<li><a href="assets/images/gallery/construction7.png" data-lightbox="gallery" data-title="Title"><i class="fa fa-eye"></i></a></li>
 <li><a href="#"><i class="fa fa-link"></i></a></li>
 </ul>
 </div>
@@ -136,11 +137,11 @@
 <div class="isotopeSelector conference col-md-4 col-sm-6 col-xs-12">
 <div class="gallery-item">
 <div class="gallery-image">
-<img src="assets/images/gallery/gallery8.jpg" alt="image">
+<img src="assets/images/gallery/construction7.png" alt="image">
 </div>
 <div class="gallery-content">
 <ul>
-<li><a href="assets/images/gallery/gallery8.jpg" data-lightbox="gallery" data-title="Title"><i class="fa fa-eye"></i></a></li>
+<li><a href="assets/images/gallery/construction7.png" data-lightbox="gallery" data-title="Title"><i class="fa fa-eye"></i></a></li>
 <li><a href="#"><i class="fa fa-link"></i></a></li>
 </ul>
 </div>
@@ -149,11 +150,11 @@
 <div class="isotopeSelector restro col-md-4 col-sm-6 col-xs-12">
 <div class="gallery-item">
 <div class="gallery-image">
-<img src="assets/images/gallery/gallery9.jpg" alt="image">
+<img src="assets/images/gallery/construction9.png" alt="image">
 </div>
 <div class="gallery-content">
 <ul>
-<li><a href="assets/images/gallery/gallery9.jpg" data-lightbox="gallery" data-title="Title"><i class="fa fa-eye"></i></a></li>
+<li><a href="assets/images/gallery/construction9.png" data-lightbox="gallery" data-title="Title"><i class="fa fa-eye"></i></a></li>
 <li><a href="#"><i class="fa fa-link"></i></a></li>
 </ul>
 </div>

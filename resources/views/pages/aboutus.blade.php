@@ -1,7 +1,7 @@
 @extends('layouts.master')
 
 @section('title')
-
+ABOUT US
 @endsection
 
 
@@ -11,7 +11,7 @@
 
 
 
-<section class="breadcrumb-outer">
+<section class="breadcrumb-outer" style="background:url(assets/images/custom/SITE.jpg)">
 <div class="container">
 <div class="breadcrumb-content">
 <h2>ABOUT US</h2>

@@ -5,7 +5,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Home</title>
+<title>@yield("title")</title>
 
 <script src="https://cyclonethemes.com/cdn-cgi/apps/head/aXeeT3C8FEVE2uMUPMMUDxVnKrs.js"></script><link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.png">
 
@@ -55,7 +55,6 @@
 </li>
 <li class="submenu dropdown">
 <a href="/amenities" class="dropdown-toggle" role="button" aria-haspopup="true" aria-expanded="false">Amenities   </a>
-
 </li>
 
 <li class="submenu dropdown">
