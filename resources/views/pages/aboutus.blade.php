@@ -42,7 +42,8 @@ The group headquartered at Plot 923 Makerere Hill Road on Ham Towers consists of
 
 
 <h3 style="text-align:center; margin-top:-50px;">OUR <span>COMPANIES</span></h3>
-<img src="assets/images/companies.PNG" alt="our-companies-image">
+<img src="{{ asset('assets/images/companies.PNG') }}" alt="our-companies-image">
+
 
 
 <!-- end of content -->
