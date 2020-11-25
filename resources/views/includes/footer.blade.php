@@ -29,7 +29,7 @@
 </div>
 <div class="col-md-3 col-sm-6 col-xs-12">
 <div class="Rooms">
-<h4>Rooms</h4>
+<h4>HOUSE TYPES</h4>
 <ul>
 <li><a href="/villaDetails">House 1</a></li>
 <li><a href="/villaDetail">House 2</a></li>

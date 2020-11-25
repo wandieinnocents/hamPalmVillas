@@ -11,7 +11,7 @@ AMENITIES
 
 
 
-<section class="breadcrumb-outer" style="background:url(assets/images/custom/SITE.jpg)">
+<section class="breadcrumb-outer" style="background:url(assets/images/custom/B7.png)">
 <div class="container">
 <div class="breadcrumb-content">
 <h2>AMENITIES</h2>
