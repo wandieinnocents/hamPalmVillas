@@ -18,10 +18,10 @@
 <div class="quick-links">
 <h4>Quick Links</h4>
 <ul>
-<li><a href="#">Villas</a></li>
+<li><a href="/villas">Villas</a></li>
 
-<li><a href="#">Amenities</a></li>
-<li><a href="#">Sales</a></li>
+<li><a href="/amenities">Amenities</a></li>
+<li><a href="/sales">Sales</a></li>
 
 
 </ul>
@@ -31,9 +31,9 @@
 <div class="Rooms">
 <h4>Rooms</h4>
 <ul>
-<li><a href="#">7 Bed Rooms</a></li>
-<li><a href="#">3 Bed Rooms</a></li>
-<li><a href="#">7 Bed Rooms</a></li>
+<li><a href="/villaDetails">House 1</a></li>
+<li><a href="/villaDetail">House 2</a></li>
+<li><a href="/house3Details">House 3</a></li>
 
 </ul>
 </div>
@@ -58,7 +58,7 @@
 <div class="copyright-content text-center">
 <p class="white">&copy 2020  <span><a href="">Ham Palm Villas</a></span>. Design by <a href="#"> Wanran Inc </a></p>
 <ul>
-<li><a href="#" class="white"><i class="fab fa-facebook" aria-hidden="true"></i></a></li>
+<li><a href="https://www.facebook.com/HAM-PALM-Villas-103145168155865" class="white"><i class="fab fa-facebook" aria-hidden="true"></i></a></li>
 <li><a href="#" class="white"><i class="fab fa-twitter" aria-hidden="true"></i></a></li>
 <li><a href="#" class="white"><i class="fab fa-instagram" aria-hidden="true"></i></a></li>
 <li><a href="#" class="white"><i class="fab fa-google-plus" aria-hidden="true"></i></a></li>
