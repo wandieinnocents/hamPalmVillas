@@ -174,7 +174,7 @@ in Clusters to enhance Community living and security
 <div class="col-md-4">
 <div class="room-item">
 <div class="room-image">
-<img src="assets/images/custom/master-plan.png" alt="image">
+<img src="assets/images/custom/masterplanner.png" alt="image">
 
 <div class="room-content">
 <div class="room-title">
