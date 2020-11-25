@@ -121,9 +121,9 @@ have a direct influence on our residents.
 <div class="col-md-4">
 <div class="room-item">
 <div class="room-image">
-<img src="assets/images/custom/locationnew.jpg" alt="image">
+<a href="https://goo.gl/maps/o7aBFjvMQ6XsoA5i8"> <img src="assets/images/custom/locationnew.jpg" alt="image" ></a>
 
-<div class="room-content">
+<div class="room-content" >
 <div class="room-title">
 
 

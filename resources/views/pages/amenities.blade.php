@@ -27,6 +27,7 @@ AMENITIES
 
 
 <section class="content gallery" data-ref="container-1">
+<!-- 
 <div class="container">
 <div class="row">
 <div class="col-md-12">
@@ -161,7 +162,7 @@ AMENITIES
 </div>
 </div>
 </div>
-</div>
+</div> -->
 </section>
 
 
@@ -170,34 +171,41 @@ AMENITIES
 <!-- AMENITIES SECTION  -->
 
 
-<section class="amenities" style="background-color:blak; margin-top:-150px;" >
+<section class="amenities" style="background-color:blak; margin-top:-160px;" >
 <div class="container">
-<div class="section-title">
+<!-- <div class="section-title">
 <h3>Explore <span>Amenities</span></h3>
-</div>
+</div> -->
 <div class="amenities-content">
 <div class="row">
 <div class="col-md-3 col-sm-6 col-xs-12">
 <div class="amt-item mar-bottom-30">
 <div class="amt-icon">
-<i class="fa fa-wifi" aria-hidden="true"></i>
+<!-- <i class="fa fa-wifi" aria-hidden="true"></i> -->
+<img src="assets/images/amenities/play.png" alt="" style="width:50%; height: 17%;">
+
+
 </div>
-<h4>Free Wifi</h4>
+<h4>PLAY AREAS</h4>
 </div>
 </div>
 <div class="col-md-3 col-sm-6 col-xs-12">
 <div class="amt-item mar-bottom-30">
 <div class="amt-icon">
 <!-- <i class="fa fa-life-rin" aria-hidden="true"></i> -->
-<img src="assets/images/latest/swimming.png" alt="" style="width:17%; height: 17%;">
+<img src="assets/images/amenities/parking.png" alt="" style="width:50%; height: 17%;">
 </div>
-<h4>Swimming Pool</h4>
+<h4>PRIVATE CAR PARKING</h4>
 </div>
 </div>
 <div class="col-md-3 col-sm-6 col-xs-12">
 <div class="amt-item mar-bottom-30">
 <div class="amt-icon">
-<i class="fa fa-child" aria-hidden="true"></i>
+<!-- <i class="fa fa-child" aria-hidden="true"></i> -->
+<img src="assets/images/amenities/rel.png" alt="" style="width:50%; height: 17%;">
+
+
+
 </div>
 <h4>Kids Play Areas</h4>
 </div>
@@ -205,7 +213,10 @@ AMENITIES
 <div class="col-md-3 col-sm-6 col-xs-12">
 <div class="amt-item mar-bottom-30">
 <div class="amt-icon">
-<i class="fa fa-building" aria-hidden="true"></i>
+<!-- <i class="fa fa-building" aria-hidden="true"></i> -->
+<img src="assets/images/amenities/security.png" alt="" style="width:50%; height: 17%;">
+
+
 </div>
 <h4>High-end Club House</h4>
 </div>
@@ -260,6 +271,207 @@ AMENITIES
 
 <!-- END OF AMENITIES SECTOIN -->
 
+
+<!-- AMENITIES SECTION  -->
+
+
+<section class="amenities" style="background-color:blak; margin-top:-150px;" >
+<div class="container">
+
+<div class="amenities-content">
+<div class="row">
+<div class="col-md-3 col-sm-6 col-xs-12">
+<div class="amt-item mar-bottom-30">
+<div class="amt-icon">
+<!-- <i class="fa fa-wifi" aria-hidden="true"></i> -->
+<img src="assets/images/amenities/bbq.png" alt="" style="width:50%; height: 17%;">
+
+
+</div>
+<h4>BBQ AREA</h4>
+</div>
+</div>
+<div class="col-md-3 col-sm-6 col-xs-12">
+<div class="amt-item mar-bottom-30">
+<div class="amt-icon">
+<!-- <i class="fa fa-life-rin" aria-hidden="true"></i> -->
+<img src="assets/images/amenities/cctv.png" alt="" style="width:50%; height: 17%;">
+</div>
+<h4>CCTV MONITORING</h4>
+</div>
+</div>
+<div class="col-md-3 col-sm-6 col-xs-12">
+<div class="amt-item mar-bottom-30">
+<div class="amt-icon">
+<!-- <i class="fa fa-child" aria-hidden="true"></i> -->
+<img src="assets/images/amenities/gardens.png" alt="" style="width:50%; height: 17%;">
+
+</div>
+<h4>LANDSCAPE GARDENS</h4>
+</div>
+</div>
+<div class="col-md-3 col-sm-6 col-xs-12">
+<div class="amt-item mar-bottom-30">
+<div class="amt-icon">
+<!-- <i class="fa fa-building" aria-hidden="true"></i> -->
+<img src="assets/images/amenities/cctv.png" alt="" style="width:50%; height: 17%;">
+
+
+</div>
+<h4>High-end Club House</h4>
+</div>
+</div>
+
+<!-- 
+<div class="col-md-3 col-sm-6 col-xs-12">
+<div class="amt-item">
+<div class="amt-icon">
+<i class="fa fa-cogs" aria-hidden="true"></i>
+</div>
+<h4>Quick service</h4>
+</div>
+</div>
+
+
+<div class="col-md-3 col-sm-6 col-xs-12">
+<div class="amt-item">
+<div class="amt-icon">
+<i class="fa fa-map-marker" aria-hidden="true"></i>
+</div>
+<h4>City map</h4>
+</div>
+</div>
+
+
+<div class="col-md-3 col-sm-6 col-xs-12">
+<div class="amt-item">
+<div class="amt-icon">
+<i class="fa fa-life-ring" aria-hidden="true"></i>
+</div>
+<h4>Swimming pool</h4>
+</div>
+</div>
+
+
+<div class="col-md-3 col-sm-6 col-xs-12">
+<div class="amt-item">
+<div class="amt-icon">
+<i class="fa fa-bolt" aria-hidden="true"></i>
+</div>
+<h4>Smoking free</h4>
+</div>
+</div> -->
+
+
+</div>
+</div>
+</div>
+</section>
+
+
+<!-- END OF AMENITIES SECTOIN -->
+
+
+
+
+<!-- AMENITIES SECTION  -->
+
+
+<section class="amenities" style="background-color:blak; margin-top:-150px;" >
+<div class="container">
+
+<div class="amenities-content">
+<div class="row">
+<div class="col-md-3 col-sm-6 col-xs-12">
+<div class="amt-item mar-bottom-30">
+<div class="amt-icon">
+<!-- <i class="fa fa-wifi" aria-hidden="true"></i> -->
+<img src="assets/images/amenities/servants.png" alt="" style="width:50%; height: 17%;">
+
+
+</div>
+<h4>SERVANTS</h4>
+</div>
+</div>
+<div class="col-md-3 col-sm-6 col-xs-12">
+<div class="amt-item mar-bottom-30">
+<div class="amt-icon">
+<!-- <i class="fa fa-life-rin" aria-hidden="true"></i> -->
+<img src="assets/images/amenities/pool.png" alt="" style="width:50%; height: 17%;">
+</div>
+<h4>SWIMMING POOL</h4>
+</div>
+</div>
+<div class="col-md-3 col-sm-6 col-xs-12">
+<div class="amt-item mar-bottom-30">
+<div class="amt-icon">
+<!-- <i class="fa fa-child" aria-hidden="true"></i> -->
+<img src="assets/images/amenities/utility.png" alt="" style="width:50%; height: 10%;">
+
+</div>
+<h4>UTILITY AREAS</h4>
+</div>
+</div>
+<div class="col-md-3 col-sm-6 col-xs-12">
+<div class="amt-item mar-bottom-30">
+<div class="amt-icon">
+<!-- <i class="fa fa-building" aria-hidden="true"></i> -->
+<img src="assets/images/amenities/cctv.png" alt="" style="width:50%; height: 17%;">
+
+
+</div>
+<h4>High-end Club House</h4>
+</div>
+</div>
+
+<!-- 
+<div class="col-md-3 col-sm-6 col-xs-12">
+<div class="amt-item">
+<div class="amt-icon">
+<i class="fa fa-cogs" aria-hidden="true"></i>
+</div>
+<h4>Quick service</h4>
+</div>
+</div>
+
+
+<div class="col-md-3 col-sm-6 col-xs-12">
+<div class="amt-item">
+<div class="amt-icon">
+<i class="fa fa-map-marker" aria-hidden="true"></i>
+</div>
+<h4>City map</h4>
+</div>
+</div>
+
+
+<div class="col-md-3 col-sm-6 col-xs-12">
+<div class="amt-item">
+<div class="amt-icon">
+<i class="fa fa-life-ring" aria-hidden="true"></i>
+</div>
+<h4>Swimming pool</h4>
+</div>
+</div>
+
+
+<div class="col-md-3 col-sm-6 col-xs-12">
+<div class="amt-item">
+<div class="amt-icon">
+<i class="fa fa-bolt" aria-hidden="true"></i>
+</div>
+<h4>Smoking free</h4>
+</div>
+</div> -->
+
+
+</div>
+</div>
+</div>
+</section>
+
+
+<!-- END OF AMENITIES SECTOIN -->
 
 
 <!-- end of content -->
