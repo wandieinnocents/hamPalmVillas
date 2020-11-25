@@ -39,7 +39,7 @@ We have an inherent passion for our local area, strong ties to our community and
 </p>
 
 <p style="text-align:left;">
-Ham Palm Villas is a place where there is a carefully curated quality corporate and community experience, with great focus on Contemporary Living
+Ham Palm Villas pis a place where there is a carefully curated quality corporate and community experience, with great focus on Contemporary Living
 
 Over the years, backed by the success in the real estate sector in Uganda, Hams Enterprises has grown into other sectors and expanded its real estate arm into international markets. The group headquartered at Plot 923 Makerere Hill Road on Ham Towers consists of 5 fully registered
  entities in 3 different countries.
@@ -55,7 +55,7 @@ Over the years, backed by the success in the real estate sector in Uganda, Hams 
 
     <div class="col-md-10">
     <!-- <img src="assets/images/custom/hamteam.PNG" alt="our-companies-image" style="margin-left:-40px; "> -->
-    <img src="assets/images/custom/team2.PNG" alt="our-companies-image" style="margin-left:-40px; ">
+    <img src="{{ asset('assets/images/custom/teamtwo.png') }}" alt="our-companies-image" style="margin-left:-40px; ">
     </div>
 
     <div class="col-md-1">
