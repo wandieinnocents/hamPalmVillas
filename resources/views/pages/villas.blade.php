@@ -52,7 +52,7 @@ VILLAS
         <h5 style="padding-left:10px; padding-top:10px;">HOUSE 1 </h5>
 
         <div class="room-image">
-        <img src="assets/images/room-list/rum.png" alt="image">
+        <img src="assets/images/room-list/house1.png" alt="image">
 
         </div>
         </div>
@@ -64,7 +64,7 @@ VILLAS
             <p>
 
 
-                This house has a  living room of 42.5 and a Dining room of 25.5 , kitchen 
+                This dds house has a  living room of 42.5 and a Dining room of 25.5 , kitchen 
                 is 20.2 and a storage of 3.5 , laundry is 6.5 , Maids Room is 12.8 , Guest 
                 bedroom is 32.6.
             </p>
@@ -143,7 +143,7 @@ VILLAS
                     <div class="room-item">
                     <h5 style="padding-left:10px; padding-top:10px;">HOUSE 2 </h5>
                     <div class="room-image">
-                    <img src="assets/images/latest/house2-display.png" alt="image">
+                    <img src="assets/images/room-list/house2.png" alt="image">
 
                     </div>
                     </div>
@@ -260,7 +260,7 @@ VILLAS
         <h5 style="padding-left:10px; padding-top:10px;">HOUSE 3 </h5>
 
         <div class="room-image">
-        <img src="assets/images/room-list/house-3-display.png" alt="image">
+        <img src="assets/images/room-list/house3.png" alt="image">
 
         </div>
         </div>
