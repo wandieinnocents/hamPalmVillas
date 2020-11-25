@@ -236,16 +236,14 @@ and the Third bedroom is 22.6
 <!-- more homes row -->
 
 
-
-
 <br>
-
+<h5>HOUSE 2</h5>
 <!-- more homes row -->
-<div class="row" style="border:black 1px solid ; padding-top:10px;">
+<div class="row" style="border:black 1px solid ; padding:5px;">
 
 <div class="col-md-5">
-<h5>HOUSE 2</h5>
-<img src="assets/images/latest/house22.png" alt="Image" style="width:70%">
+
+<img src="assets/images/latest/house22.png" alt="Image">
 </div>
 
 <!-- home-content -->
@@ -296,13 +294,13 @@ and the Third bedroom is 22.6
 
 
 <br>
-
+<h5>HOUSE 3</h5>
 <!-- more homes row -->
-<div class="row" style="border:black 1px solid ; padding-top:10px;">
+<div class="row" style="border:black 1px solid ; padding-top:2px;">
 
 <div class="col-md-5">
-<h5>HOUSE 3</h5>
-<img src="assets/images/latest/house33.png" alt="Image" style="width:70%">
+
+<img src="assets/images/latest/house33.png" alt="Image">
 </div>
 
 <!-- home-content -->
