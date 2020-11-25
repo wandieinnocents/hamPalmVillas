@@ -76,6 +76,7 @@ and the Third bedroom is 22.6
 
 <!-- plan image display -->
 <img src="assets/images/latest/house-1-plan.png" alt="image">
+<img src="assets/images/latest/groundfloor.png" alt="image">
 
 <!-- end of plan image display -->
 
@@ -299,7 +300,6 @@ and the Third bedroom is 22.6
 <div class="row" style="border:black 1px solid ; padding-top:2px;">
 
 <div class="col-md-5">
-
 <img src="assets/images/latest/house33.png" alt="Image">
 </div>
 

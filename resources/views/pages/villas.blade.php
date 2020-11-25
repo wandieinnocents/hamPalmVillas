@@ -52,7 +52,7 @@ VILLAS
         <h5 style="padding-left:10px; padding-top:10px;">HOUSE 1 </h5>
 
         <div class="room-image">
-        <img src="assets/images/room-list/house1.png" alt="image">
+        <img src="assets/images/latest/newhouse1.png" alt="image">
 
         </div>
         </div>
@@ -143,7 +143,7 @@ VILLAS
                     <div class="room-item">
                     <h5 style="padding-left:10px; padding-top:10px;">HOUSE 2 </h5>
                     <div class="room-image">
-                    <img src="assets/images/room-list/house2.png" alt="image">
+                    <img src="assets/images/latest/house2display.png" alt="image">
 
                     </div>
                     </div>
@@ -260,7 +260,7 @@ VILLAS
         <h5 style="padding-left:10px; padding-top:10px;">HOUSE 3 </h5>
 
         <div class="room-image">
-        <img src="assets/images/room-list/house3.png" alt="image">
+        <img src="assets/images/latest/house3display.png" alt="image">
 
         </div>
         </div>
