@@ -147,7 +147,7 @@ Akright City Kakungulu and Palm View Golf Course. The site is strategically loca
 <div class="col-md-4">
 <div class="room-item">
 <div class="room-image">
-<img src="assets/images/custom/hamoverview.jpg" alt="image"> 
+<img src="assets/images/custom/overviewdisplay.jpg" alt="image"> 
 
 <div class="room-content">
 <div class="room-title">
