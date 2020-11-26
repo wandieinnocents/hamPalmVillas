@@ -32,13 +32,88 @@ VILLA DETAILS
 <div >
 
 
-
+<!-- HOUSE DETAILS SLIDER SECTION -->
 <div class="detail-slider-item">
 <h3>HOUSE 1 - More Details</h3>
-<img src="assets/images/latest/house1-display.png" alt="image">
+ 
+<!-- <img src="assets/images/latest/house1-display.png" alt="image"> -->
+<!-- START OF GENERAL SLIDER SECTION  -->
+<div class="detail-slider">
+                     <div class="slider-1 slider-for">
+
+                        <div class="detail-slider-item">
+                        <img src="assets/images/detail-slider/slider1.jpg" alt="image">
+                        </div>
+                        <div class="detail-slider-item">
+                        <img src="assets/images/detail-slider/slider2.jpg" alt="image">
+                        </div>
+                        <div class="detail-slider-item">
+                        <img src="assets/images/detail-slider/slider3.jpg" alt="image">
+                        </div>
+                        <div class="detail-slider-item">
+                        <img src="assets/images/detail-slider/slider4.jpg" alt="image">
+                        </div>
+                        <div class="detail-slider-item">
+                        <img src="assets/images/detail-slider/slider5.jpg" alt="image">
+                        </div>
+                        <div class="detail-slider-item">
+                        <img src="assets/images/detail-slider/slider6.jpg" alt="image">
+                        </div>
+                        <div class="detail-slider-item">
+                        <img src="assets/images/detail-slider/slider7.jpg" alt="image">
+                        </div>
+                        <div class="detail-slider-item">
+                        <img src="assets/images/detail-slider/slider8.jpg" alt="image">
+                        </div>
+                        <div class="detail-slider-item">
+                        <img src="assets/images/detail-slider/slider9.jpg" alt="image">
+                        </div>
+
+                     </div>
+
+
+
+             <!-- SLIDER NAV -->
+                <div class="slider-1 slider-nav">
+                    <div class="detail-slider-item">
+                    <img src="assets/images/detail-slider/slider1.jpg" alt="image">
+                    </div>
+                    <div class="detail-slider-item">
+                    <img src="assets/images/detail-slider/slider2.jpg" alt="image">
+                    </div>
+                    <div class="detail-slider-item">
+                    <img src="assets/images/detail-slider/slider3.jpg" alt="image">
+                    </div>
+                    <div class="detail-slider-item">
+                    <img src="assets/images/detail-slider/slider4.jpg" alt="image">
+                    </div>
+                    <div class="detail-slider-item">
+                    <img src="assets/images/detail-slider/slider5.jpg" alt="image">
+                    </div>
+                    <div class="detail-slider-item">
+                    <img src="assets/images/detail-slider/slider6.jpg" alt="image">
+                    </div>
+                    <div class="detail-slider-item">
+                    <img src="assets/images/detail-slider/slider7.jpg" alt="image">
+                    </div>
+                    <div class="detail-slider-item">
+                    <img src="assets/images/detail-slider/slider8.jpg" alt="image">
+                    </div>
+                    <div class="detail-slider-item">
+                    <img src="assets/images/detail-slider/slider9.jpg" alt="image">
+                    </div>
+                </div>
+                <!-- END OF SLIDER NAV -->
+     
+            </div>
+            <!-- END OF GENERAL SLIDER SECTION  -->
+</div>
+
+<!-- END OF HOUSE DETAILS SLIDER SECTION  -->
 </div>
 </div>
-</div>
+
+
 <div class="detail-content">
 
 <!-- main  tab section -->
@@ -74,149 +149,23 @@ and the Third bedroom is 22.6
 </div>
 <div class="tab-pane active" id="2a">
 
-<!-- plan image display -->
+<!-- START OF PLAN IMAGE DISPLAY -->
 <img src="assets/images/latest/house-1-plan.png" alt="image">
 <img src="assets/images/latest/groundfloor.png" alt="image">
 
-<!-- end of plan image display -->
+<!-- END OF PLAN IMAGE DISPLAY -->
 
 </div>
 
-<!-- photos tab section -->
+<!-- OFFICIAL START OF PHOTOS TAB - TAB 1 - MORE PHOTOS SECTION-->
 
 <div class="tab-pane" id="1a">
-<div class="detail-places detail-box">
-<h4>More Photos</h4>
-<div class="service-outer">
 
-
-<!-- start more photos row  -->
-<div class="row">
-                <div class="col-md-6 col-sm-12 col-xs-12">
-                    <div class="service-item">
-
-                        <div class="service-image">
-                        <img src="assets/images/latest/villas/house1/kitchen/kitchen1.png" alt="Image">
-                        </div>
-
-                     </div>
-                </div>
-
-
-                <!-- <div class="col-md-6 col-sm-12 col-xs-12">
-                <div class="service-item">
-                <div class="service-image">
-                <img src="assets/images/service2.jpg" alt="Image">
-                </div>
-                <div class="service-content">
-                <h3>Massage</h3>
-                </div>
-                </div>
-                </div> -->
-
-                <div class="col-md-6 col-sm-12 col-xs-12">
-                     <div class="service-item">
-                         <div class="service-image">
-                        <img src="assets/images/latest/villas/house1/kitchen/kitchen2.png" alt="Image">
-                        </div>
-                            <!-- <div class="service-content">
-                            <h3>Swimming Pool</h3>
-                            </div> -->
-                     </div>
-                </div>
+<P>EMPTY AREA</P>
 
 </div>
-<!-- end  more photos row -->
 
-
-<br>
-<!-- start more photos row  -->
-<div class="row">
-                <div class="col-md-6 col-sm-12 col-xs-12">
-                    <div class="service-item">
-
-                        <div class="service-image">
-                        <img src="assets/images/latest/villas/house1/kitchen/kitchen3.png" alt="Image">
-                        </div>
-
-                     </div>
-                </div>
-
-
-                <!-- <div class="col-md-6 col-sm-12 col-xs-12">
-                <div class="service-item">
-                <div class="service-image">
-                <img src="assets/images/service2.jpg" alt="Image">
-                </div>
-                <div class="service-content">
-                <h3>Massage</h3>
-                </div>
-                </div>
-                </div> -->
-
-                <div class="col-md-6 col-sm-12 col-xs-12">
-                     <div class="service-item">
-                         <div class="service-image">
-                        <img src="assets/images/latest/villas/house1/kitchen/kitchen4.png" alt="Image">
-                        </div>
-                            <!-- <div class="service-content">
-                            <h3>Swimming Pool</h3>
-                            </div> -->
-                     </div>
-                </div>
-
-</div>
-<!-- end  more photos row -->
-
-<br>
-<!-- start more photos row  -->
-<div class="row">
-                <div class="col-md-6 col-sm-12 col-xs-12">
-                    <div class="service-item">
-
-                        <div class="service-image">
-                        <img src="assets/images/latest/villas/house1/kitchen/kitchen4.png" alt="Image">
-                        </div>
-
-                     </div>
-                </div>
-
-
-                <!-- <div class="col-md-6 col-sm-12 col-xs-12">
-                <div class="service-item">
-                <div class="service-image">
-                <img src="assets/images/service2.jpg" alt="Image">
-                </div>
-                <div class="service-content">
-                <h3>Massage</h3>
-                </div>
-                </div>
-                </div> -->
-
-                <div class="col-md-6 col-sm-12 col-xs-12">
-                     <div class="service-item">
-                         <div class="service-image">
-                        <img src="assets/images/latest/villas/house1/kitchen/kitchen1.png" alt="Image">
-                        </div>
-                            <!-- <div class="service-content">
-                            <h3>Swimming Pool</h3>
-                            </div> -->
-                     </div>
-                </div>
-
-</div>
-<!-- end  more photos row -->
-
-
-
-
-
-
-</div>
-</div>
-</div>
-
-
+<!-- OFFICIAL END OF PHOTOS TAB - TAB 1 - MORE PHOTOS SECTION  -->
 
 
 
@@ -229,7 +178,7 @@ and the Third bedroom is 22.6
 
 
 
-
+<!-- SIDE BAR CONTENT -->
 
 <div class="col-md-4">
 <h3>MORE <span>HOMES</span></h3>
@@ -293,6 +242,10 @@ and the Third bedroom is 22.6
 <!-- end of more homes row -->
 
 
+
+
+
+<!-- SIDE BAR CONTENT -->
 
 <br>
 <h5>HOUSE 3</h5>
@@ -370,9 +323,5 @@ and the Third bedroom is 22.6
 </div>
 </div>
 </section>
-
-
-
-
 @endsection
 <!-- end of content -->
