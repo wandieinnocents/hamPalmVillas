@@ -150,8 +150,8 @@ and the Third bedroom is 22.6
 <div class="tab-pane active" id="2a">
 
 <!-- START OF PLAN IMAGE DISPLAY -->
-<img src="assets/images/latest/house-1-plan.png" alt="image">
-<img src="assets/images/latest/groundfloor.png" alt="image">
+<img src="assets/images/latest/ground-plan-house-1.png" alt="image">
+<img src="assets/images/latest/first-floor-plan-house-1.png" alt="image">
 
 <!-- END OF PLAN IMAGE DISPLAY -->
 

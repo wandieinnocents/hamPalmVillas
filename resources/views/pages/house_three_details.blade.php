@@ -72,7 +72,9 @@ This House has a Living room of 82.0 Sqm , Dining room of 82.0 , Kitchen of 82.0
 <div class="tab-pane active" id="2a">
 
 <!-- plan image display -->
-<img src="assets/images/latest/house-3-plan.png" alt="image">
+<img src="assets/images/latest/ground-floor-plan-house-3.png" alt="image">
+<img src="assets/images/latest/first-floor-plan-house-3.png" alt="image">
+
 
 <!-- end of plan image display -->
 
