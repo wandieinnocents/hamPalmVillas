@@ -15,28 +15,22 @@ AMENITIES
 <div class="container">
 <div class="breadcrumb-content">
 <h2>AMENITIES</h2>
-<!-- <nav aria-label="breadcrumb">
-<ul class="breadcrumb">
-<li class="breadcrumb-item"><a href="#">Home</a></li>
-<li class="breadcrumb-item active" aria-current="page">Gallery Style 1</li>
-</ul>
-</nav> -->
 </div>
 </div>
 </section>
 
 
 <section class="content gallery" data-ref="container-1">
-<!-- 
+
 <div class="container">
 <div class="row">
 <div class="col-md-12">
 <div class="mt_filter">
 <ul class="list-inline text-center filter">
 <li class="active"><a href="#" data-filter="*">All</a></li>
-<li><a href="#" data-filter=".conference">Swimming Pools</a></li>
-<li><a href="#" data-filter=".restro">Sports </a></li>
-<li><a href="#" data-filter=".rooms">Rooms</a></li>
+<li><a href="#" data-filter=".conference">House Topologies</a></li>
+<li><a href="#" data-filter=".restro">Recreational Facilities</a></li>
+<li><a href="#" data-filter=".rooms">Public Spaces</a></li>
 </ul>
 </div>
 </div>
@@ -162,7 +156,7 @@ AMENITIES
 </div>
 </div>
 </div>
-</div> -->
+</div>
 </section>
 
 

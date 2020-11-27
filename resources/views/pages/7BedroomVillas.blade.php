@@ -29,7 +29,7 @@ VILLA DETAILS
 <div class="row">
 <div class="col-md-8">
 <div class="detail-slider">
-<div >
+<div>
 
 
 <!-- HOUSE DETAILS SLIDER SECTION -->
@@ -132,40 +132,33 @@ VILLA DETAILS
 
 <!-- specifics tab section -->
 <div class="tab-content clearfix">
-<div class="tab-pane" id="3a">
-<div class="detail-overview detail-box">
-<h4>HOUSE SPECIFICS</h4>
-<p>
-living room of 42.5 and a Dining room of 25.5 , kitchen is 20.2 and a storage of 3.5 , 
-laundry is 6.5 , Maids Room is 12.8 , Guest bedroom is 32.6 , Second bedroom is 22.6
-and the Third bedroom is 22.6
-    
-    </p>
+    <div class="tab-pane" id="3a">
+            <div class="detail-overview detail-box">
+                    <h4>HOUSE SPECIFICS</h4>
+                    <p> living room of 42.5 and a Dining room of 25.5 , kitchen is 20.2 and a storage of 3.5 , 
+                    laundry is 6.5 , Maids Room is 12.8 , Guest bedroom is 32.6 , Second bedroom is 22.6
+                    and the Third bedroom is 22.6  
+                    </p>
 
+            </div>
+    </div>
 
+    <div class="tab-pane active" id="2a">
 
+            <!-- START OF PLAN IMAGE DISPLAY -->
+            <img src="assets/images/latest/ground-plan-house-1.png" alt="image">
+            <img src="assets/images/latest/first-floor-plan-house-1.png" alt="image">
+            <!-- END OF PLAN IMAGE DISPLAY -->
 
-</div>
-</div>
-<div class="tab-pane active" id="2a">
+    </div>
 
-<!-- START OF PLAN IMAGE DISPLAY -->
-<img src="assets/images/latest/ground-plan-house-1.png" alt="image">
-<img src="assets/images/latest/first-floor-plan-house-1.png" alt="image">
+        <!-- OFFICIAL START OF PHOTOS TAB - TAB 1 - MORE PHOTOS SECTION-->
 
-<!-- END OF PLAN IMAGE DISPLAY -->
+    <div class="tab-pane" id="1a">
+        <P>EMPTY AREA</P>
+    </div>
 
-</div>
-
-<!-- OFFICIAL START OF PHOTOS TAB - TAB 1 - MORE PHOTOS SECTION-->
-
-<div class="tab-pane" id="1a">
-
-<P>EMPTY AREA</P>
-
-</div>
-
-<!-- OFFICIAL END OF PHOTOS TAB - TAB 1 - MORE PHOTOS SECTION  -->
+        <!-- OFFICIAL END OF PHOTOS TAB - TAB 1 - MORE PHOTOS SECTION  -->
 
 
 

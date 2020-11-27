@@ -33,12 +33,95 @@ VILLA DETAILS
 
 
 
+<!-- SLIDER SECTION  -->
+
+
+<!-- HOUSE DETAILS SLIDER SECTION -->
 <div class="detail-slider-item">
-<h3>HOUSE 3 - More Details</h3>
-<img src="assets/images/latest/house-3-display.png" alt="image">
+<h3>HOUSE 1 - More Details</h3>
+ 
+<!-- <img src="assets/images/latest/house1-display.png" alt="image"> -->
+<!-- START OF GENERAL SLIDER SECTION  -->
+<div class="detail-slider">
+                     <div class="slider-1 slider-for">
+
+                        <div class="detail-slider-item">
+                        <img src="assets/images/detail-slider/slider1.jpg" alt="image">
+                        </div>
+                        <div class="detail-slider-item">
+                        <img src="assets/images/detail-slider/slider2.jpg" alt="image">
+                        </div>
+                        <div class="detail-slider-item">
+                        <img src="assets/images/detail-slider/slider3.jpg" alt="image">
+                        </div>
+                        <div class="detail-slider-item">
+                        <img src="assets/images/detail-slider/slider4.jpg" alt="image">
+                        </div>
+                        <div class="detail-slider-item">
+                        <img src="assets/images/detail-slider/slider5.jpg" alt="image">
+                        </div>
+                        <div class="detail-slider-item">
+                        <img src="assets/images/detail-slider/slider6.jpg" alt="image">
+                        </div>
+                        <div class="detail-slider-item">
+                        <img src="assets/images/detail-slider/slider7.jpg" alt="image">
+                        </div>
+                        <div class="detail-slider-item">
+                        <img src="assets/images/detail-slider/slider8.jpg" alt="image">
+                        </div>
+                        <div class="detail-slider-item">
+                        <img src="assets/images/detail-slider/slider9.jpg" alt="image">
+                        </div>
+
+                     </div>
+
+
+
+             <!-- SLIDER NAV -->
+                <div class="slider-1 slider-nav">
+                    <div class="detail-slider-item">
+                    <img src="assets/images/detail-slider/slider1.jpg" alt="image">
+                    </div>
+                    <div class="detail-slider-item">
+                    <img src="assets/images/detail-slider/slider2.jpg" alt="image">
+                    </div>
+                    <div class="detail-slider-item">
+                    <img src="assets/images/detail-slider/slider3.jpg" alt="image">
+                    </div>
+                    <div class="detail-slider-item">
+                    <img src="assets/images/detail-slider/slider4.jpg" alt="image">
+                    </div>
+                    <div class="detail-slider-item">
+                    <img src="assets/images/detail-slider/slider5.jpg" alt="image">
+                    </div>
+                    <div class="detail-slider-item">
+                    <img src="assets/images/detail-slider/slider6.jpg" alt="image">
+                    </div>
+                    <div class="detail-slider-item">
+                    <img src="assets/images/detail-slider/slider7.jpg" alt="image">
+                    </div>
+                    <div class="detail-slider-item">
+                    <img src="assets/images/detail-slider/slider8.jpg" alt="image">
+                    </div>
+                    <div class="detail-slider-item">
+                    <img src="assets/images/detail-slider/slider9.jpg" alt="image">
+                    </div>
+                </div>
+                <!-- END OF SLIDER NAV -->
+     
+            </div>
+            <!-- END OF GENERAL SLIDER SECTION  -->
+</div>
+
+<!-- END OF HOUSE DETAILS SLIDER SECTION  -->
 </div>
 </div>
-</div>
+
+
+
+<!-- END OF SLIDER SECTION  -->
+
+
 <div class="detail-content">
 
 <!-- main  tab section -->
