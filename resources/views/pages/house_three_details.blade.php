@@ -46,31 +46,43 @@ VILLA DETAILS
                      <div class="slider-1 slider-for">
 
                         <div class="detail-slider-item">
-                        <img src="assets/images/detail-slider/slider1.jpg" alt="image">
+                        <img src="assets/images/latest/houses/house_three/1.jpg" alt="image">
                         </div>
                         <div class="detail-slider-item">
-                        <img src="assets/images/detail-slider/slider2.jpg" alt="image">
+                        <img src="assets/images/latest/houses/house_three/2.jpg" alt="image">
                         </div>
                         <div class="detail-slider-item">
-                        <img src="assets/images/detail-slider/slider3.jpg" alt="image">
+                        <img src="assets/images/latest/houses/house_three/3.jpg" alt="image">
                         </div>
                         <div class="detail-slider-item">
-                        <img src="assets/images/detail-slider/slider4.jpg" alt="image">
+                        <img src="assets/images/latest/houses/house_three/4.jpg" alt="image">
                         </div>
                         <div class="detail-slider-item">
-                        <img src="assets/images/detail-slider/slider5.jpg" alt="image">
+                        <img src="assets/images/latest/houses/house_three/5.jpg" alt="image">
                         </div>
                         <div class="detail-slider-item">
-                        <img src="assets/images/detail-slider/slider6.jpg" alt="image">
+                        <img src="assets/images/latest/houses/house_three/6.jpg" alt="image">
                         </div>
                         <div class="detail-slider-item">
-                        <img src="assets/images/detail-slider/slider7.jpg" alt="image">
+                        <img src="assets/images/latest/houses/house_three/7.jpg" alt="image">
                         </div>
                         <div class="detail-slider-item">
-                        <img src="assets/images/detail-slider/slider8.jpg" alt="image">
+                        <img src="assets/images/latest/houses/house_three/8.jpg" alt="image">
                         </div>
                         <div class="detail-slider-item">
-                        <img src="assets/images/detail-slider/slider9.jpg" alt="image">
+                        <img src="assets/images/latest/houses/house_three/9.jpg" alt="image">
+                        </div>
+                        <div class="detail-slider-item">
+                        <img src="assets/images/latest/houses/house_three/10.jpg" alt="image">
+                        </div>
+                        <div class="detail-slider-item">
+                        <img src="assets/images/latest/houses/house_three/11.jpg" alt="image">
+                        </div>
+                        <div class="detail-slider-item">
+                        <img src="assets/images/latest/houses/house_three/12.jpg" alt="image">
+                        </div>
+                        <div class="detail-slider-item">
+                        <img src="assets/images/latest/houses/house_three/13.jpg" alt="image">
                         </div>
 
                      </div>
@@ -79,33 +91,47 @@ VILLA DETAILS
 
              <!-- SLIDER NAV -->
                 <div class="slider-1 slider-nav">
-                    <div class="detail-slider-item">
-                    <img src="assets/images/detail-slider/slider1.jpg" alt="image">
-                    </div>
-                    <div class="detail-slider-item">
-                    <img src="assets/images/detail-slider/slider2.jpg" alt="image">
-                    </div>
-                    <div class="detail-slider-item">
-                    <img src="assets/images/detail-slider/slider3.jpg" alt="image">
-                    </div>
-                    <div class="detail-slider-item">
-                    <img src="assets/images/detail-slider/slider4.jpg" alt="image">
-                    </div>
-                    <div class="detail-slider-item">
-                    <img src="assets/images/detail-slider/slider5.jpg" alt="image">
-                    </div>
-                    <div class="detail-slider-item">
-                    <img src="assets/images/detail-slider/slider6.jpg" alt="image">
-                    </div>
-                    <div class="detail-slider-item">
-                    <img src="assets/images/detail-slider/slider7.jpg" alt="image">
-                    </div>
-                    <div class="detail-slider-item">
-                    <img src="assets/images/detail-slider/slider8.jpg" alt="image">
-                    </div>
-                    <div class="detail-slider-item">
-                    <img src="assets/images/detail-slider/slider9.jpg" alt="image">
-                    </div>
+                    
+                <div class="detail-slider-item">
+                        <img src="assets/images/latest/houses/house_three/1.jpg" alt="image">
+                        </div>
+                        <div class="detail-slider-item">
+                        <img src="assets/images/latest/houses/house_three/2.jpg" alt="image">
+                        </div>
+                        <div class="detail-slider-item">
+                        <img src="assets/images/latest/houses/house_three/3.jpg" alt="image">
+                        </div>
+                        <div class="detail-slider-item">
+                        <img src="assets/images/latest/houses/house_three/4.jpg" alt="image">
+                        </div>
+                        <div class="detail-slider-item">
+                        <img src="assets/images/latest/houses/house_three/5.jpg" alt="image">
+                        </div>
+                        <div class="detail-slider-item">
+                        <img src="assets/images/latest/houses/house_three/6.jpg" alt="image">
+                        </div>
+                        <div class="detail-slider-item">
+                        <img src="assets/images/latest/houses/house_three/7.jpg" alt="image">
+                        </div>
+                        <div class="detail-slider-item">
+                        <img src="assets/images/latest/houses/house_three/8.jpg" alt="image">
+                        </div>
+                        <div class="detail-slider-item">
+                        <img src="assets/images/latest/houses/house_three/9.jpg" alt="image">
+                        </div>
+                        <div class="detail-slider-item">
+                        <img src="assets/images/latest/houses/house_three/10.jpg" alt="image">
+                        </div>
+                        <div class="detail-slider-item">
+                        <img src="assets/images/latest/houses/house_three/11.jpg" alt="image">
+                        </div>
+                        <div class="detail-slider-item">
+                        <img src="assets/images/latest/houses/house_three/12.jpg" alt="image">
+                        </div>
+                        <div class="detail-slider-item">
+                        <img src="assets/images/latest/houses/house_three/13.jpg" alt="image">
+                        </div>
+
                 </div>
                 <!-- END OF SLIDER NAV -->
      
