@@ -374,122 +374,91 @@ The Living room has 82.0 sqm , the Dining has 82.0 , the Kitchen has 82.0 , the 
 
 
 
+<!-- SIDE BAR CONTENT -->
 
 <div class="col-md-4">
-<h3>MORE <span>HOMES</span></h3>
+    <h3>MORE <span>HOMES</span></h3><br>
+    <h5>HOUSE 1</h5>
+    <!-- START OF MORE HOMES ROW -->
+    <div class="row" style="border:black 1px solid ; padding-top:2px;">
+        <div class="col-md-5">
+            <img src="assets/images/latest/sidebar/home1sidebar.png" alt="Image">
+        </div>
+        <!-- START OF HOME CONTENT -->
+        <div class="col-md-7"> 
+            <p>This House has a Living room of 82.0 Sqm , Dining room of 82.0 , Kitchen of 82.0 Sqm</p>
 
-<!-- more homes row -->
-<div class="row" style="border:black 1px solid ; padding-top:10px;">
+        <!-- START OF ICONS FEATURE-->
 
-<div class="col-md-5">
-<h5>HOUSE 1</h5>
-<img src="assets/images/latest/house11.png" alt="Image" style="width:70%">
-</div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <p> <i class="fa fa-bed" aria-hidden="true"></i> Bed</p>
+                    </div>
+                    <div class="col-md-6">
+                        <p> <i class="fa fa-bed" aria-hidden="true"></i> Baths</p>
+                    </div>
+                </div>
 
-<!-- home-content -->
+                <div class="row" >
+                    <div class="col-md-6" >
+                        <p> <i class="fa fa-bed" aria-hidden="true"></i> Parking</p>
+                    </div>
+                    <div class="col-md-6">
+                        <p> <i class="fa fa-bed" aria-hidden="true"></i> Sq Fit</p>
+                    </div>
+                </div>
 
-<div class="col-md-7"> 
-    
-    <p>
-
-    This house has a living room of 42.5 and a Dining room of 25.5 , kitchen is 20.2 Sqm
-    </p>
-
-    <!-- icons features row -->
-    <div class="row">
-
-        <div class="col-md-6">
-             <p> <i class="fa fa-bed" aria-hidden="true"></i> Bed</p>
-         </div>
-
-         <div class="col-md-6">
-            <p> <i class="fa fa-bed" aria-hidden="true"></i> Baths</p>
-         </div>
-
-    </div>
-
-    <!-- end of icons features row -->
-
-    <!-- icons features row -->
-    <div class="row" >
-        
-        <div class="col-md-6" >
-             <p> <i class="fa fa-bed" aria-hidden="true"></i> Parking</p>
-         </div>
-
-         <div class="col-md-6">
-            <p> <i class="fa fa-bed" aria-hidden="true"></i> Sq Fit</p>
-         </div>
+        <!-- END OF ICONS -->
 
     </div>
-
-    <!-- end of icons features row -->
-
+    <!-- END OF HOME CONTENT -->
 </div>
-
-<!-- end of home content -->
-
-</div>
-<!-- end of more homes row -->
+<!-- END OF MORE HOMES ROW -->
 
 
-<br>
 
-<br>
 
-<!-- more homes row -->
-<div class="row" style="border:black 1px solid ; padding-top:10px;">
 
-<div class="col-md-5">
+
+
+<!-- SIDE BAR CONTENT --><br>
 <h5>HOUSE 3</h5>
-<img src="assets/images/latest/house33.png" alt="Image" style="width:70%">
-</div>
-
-<!-- home-content -->
-
-<div class="col-md-7"> 
-    
-    <p>
-
-    This House has a Living room of 82.0 Sqm , Dining room of 82.0 , Kitchen of 82.0 Sqm
-    </p>
-
-    <!-- icons features row -->
-    <div class="row">
-
-        <div class="col-md-6">
-             <p> <i class="fa fa-bed" aria-hidden="true"></i> Bed</p>
-         </div>
-
-         <div class="col-md-6">
-            <p> <i class="fa fa-bed" aria-hidden="true"></i> Baths</p>
-         </div>
-
+<!-- START OF MORE HOMES ROW -->
+<div class="row" style="border:black 1px solid ; padding-top:2px;">
+    <div class="col-md-5">
+        <img src="assets/images/latest/sidebar/house3sidebar.png" alt="Image">
     </div>
 
-    <!-- end of icons features row -->
+<!-- START OF HOME CONTENT -->
+    <div class="col-md-7"> 
+         <p>This House has a Living room of 82.0 Sqm , Dining room of 82.0 , Kitchen of 82.0 Sqm</p>
 
-    <!-- icons features row -->
-    <div class="row" >
-        
-        <div class="col-md-6" >
-             <p> <i class="fa fa-bed" aria-hidden="true"></i> Parking</p>
-         </div>
+    <!-- START OF ICONS FEATURE-->
 
-         <div class="col-md-6">
-            <p> <i class="fa fa-bed" aria-hidden="true"></i> Sq Fit</p>
-         </div>
+            <div class="row">
+                <div class="col-md-6">
+                    <p> <i class="fa fa-bed" aria-hidden="true"></i> Bed</p>
+                </div>
+                <div class="col-md-6">
+                    <p> <i class="fa fa-bed" aria-hidden="true"></i> Baths</p>
+                </div>
+            </div>
 
-    </div>
+            <div class="row" >
+                <div class="col-md-6" >
+                    <p> <i class="fa fa-bed" aria-hidden="true"></i> Parking</p>
+                </div>
+                <div class="col-md-6">
+                    <p> <i class="fa fa-bed" aria-hidden="true"></i> Sq Fit</p>
+                </div>
+            </div>
 
-    <!-- end of icons features row -->
+    <!-- END OF ICONS -->
 
 </div>
-
-<!-- end of home content -->
-
+<!-- END OF HOME CONTENT -->
 </div>
-<!-- end of more homes row -->
+<!-- END OF MORE HOMES ROW -->
 
 
 
