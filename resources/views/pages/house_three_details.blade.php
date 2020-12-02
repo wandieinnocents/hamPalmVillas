@@ -38,7 +38,7 @@ VILLA DETAILS
 
 <!-- HOUSE DETAILS SLIDER SECTION -->
 <div class="detail-slider-item">
-<h3>HOUSE 1 - More Details</h3>
+<h3>HOUSE 3 - More Details</h3>
  
 <!-- <img src="assets/images/latest/house1-display.png" alt="image"> -->
 <!-- START OF GENERAL SLIDER SECTION  -->
