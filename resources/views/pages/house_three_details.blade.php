@@ -23,7 +23,6 @@ VILLA DETAILS
 </section>
 
 
-
 <section class="details">
 <div class="container">
 <div class="row">

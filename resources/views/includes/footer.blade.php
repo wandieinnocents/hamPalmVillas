@@ -56,7 +56,7 @@
 <div class="footer-copyright">
 <div class="container">
 <div class="copyright-content text-center">
-<p class="white">&copy 2020  <span><a href="">Ham Palm Villas</a></span>. Design by <a href="#"> Wanran Inc </a></p>
+<p class="white">&copy 2020 <span><a href="">Ham Palm Villas</a></span>. Design by <a href="https://wanraninc.com/"> Wanran Inc </a></p>
 <ul>
 <li><a href="https://www.facebook.com/HAM-PALM-Villas-103145168155865" class="white"><i class="fab fa-facebook" aria-hidden="true"></i></a></li>
 <li><a href="#" class="white"><i class="fab fa-twitter" aria-hidden="true"></i></a></li>

@@ -17,6 +17,9 @@
 
 <link href="assets/css/plugin.css" rel="stylesheet" type="text/css">
 
+<link href="assets/floatingbtncss/floating.css" rel="stylesheet" type="text/css">
+
+
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css">
 </head>
@@ -69,6 +72,11 @@
 <a href="/aboutus" role="button" aria-haspopup="true" aria-expanded="false">About Us</a>
 
 </li>
+
+<!-- <li class="submenu dropdown">
+<img src="assets/images/call/call.png" alt="image" style="width:8%;">
+
+</li> -->
 
 
 
